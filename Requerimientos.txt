@@ -1,0 +1,18 @@
+1.-Crear un formulario público para solicitud de vuelo
+
+----Datos a almacenar: nombre solicitante, fecha de viaje y destino
+----Guardar internamente la fecha y la hora en que se coloca la solicitud y el estado debe ser nuevo.
+
+
+2.-Cree una pantalla para enumerar todas las solicitudes de estado nuevo y esas deben ser visualizadas por el usuario supervisor.
+Esta lista debe almacenarse desde la más antigua hasta la más reciente.
+
+3.-El usuario supervisor revisará las nuevas solicitudes y procederá a reservar las solicitudes manualmente.
+ Una vez que el boleto aéreo haya sido bloqueado (externamente a la aplicación),
+ el supervisor regresará a la aplicación para indicar que la solicitud ya está en estado Reservado,
+ la fecha y la hora de esta actividad se deben registrar automáticamente.
+
+requerimientos Tecnicos:
+--
+El sistema debe ser proporcionado por las páginas web.
+--
